@@ -1,0 +1,136 @@
+"","Expert_name","Expert_ID","Percived_risk_funding_body","Contract_period","Incentive_opportunity_cost","Public","Mix","Private","Uncertainty"
+"1","Diana Hernández","A","High","Five years","More than opp cost",0,60,40,1
+"2","Diana Hernández","A","High","Five years","Within opportunity cost",0,60,40,NA
+"3","Diana Hernández","A","High","Five years","Less than opp cost",0,70,30,NA
+"4","Diana Hernández","A","High","Less than five years","More than opp cost",0,50,50,NA
+"5","Diana Hernández","A","High","Less than five years","Within opportunity cost",0,50,50,NA
+"6","Diana Hernández","A","High","Less than five years","Less than opp cost",0,70,30,NA
+"7","Diana Hernández","A","High","More than five years","More than opp cost",0,70,30,NA
+"8","Diana Hernández","A","High","More than five years","Within opportunity cost",0,80,20,NA
+"9","Diana Hernández","A","High","More than five years","Less than opp cost",0,90,10,NA
+"10","Diana Hernández","A","Mid","Five years","More than opp cost",30,40,30,1
+"11","Diana Hernández","A","Mid","Five years","Within opportunity cost",30,40,30,NA
+"12","Diana Hernández","A","Mid","Five years","Less than opp cost",40,30,30,NA
+"13","Diana Hernández","A","Mid","Less than five years","More than opp cost",30,40,30,NA
+"14","Diana Hernández","A","Mid","Less than five years","Within opportunity cost",30,40,30,NA
+"15","Diana Hernández","A","Mid","Less than five years","Less than opp cost",40,30,30,NA
+"16","Diana Hernández","A","Mid","More than five years","More than opp cost",33,33,33,NA
+"17","Diana Hernández","A","Mid","More than five years","Within opportunity cost",33,33,33,NA
+"18","Diana Hernández","A","Mid","More than five years","Less than opp cost",40,50,10,NA
+"19","Diana Hernández","A","Low","Five years","More than opp cost",33,33,33,1
+"20","Diana Hernández","A","Low","Five years","Within opportunity cost",33,33,33,NA
+"21","Diana Hernández","A","Low","Five years","Less than opp cost",50,30,20,NA
+"22","Diana Hernández","A","Low","Less than five years","More than opp cost",33,33,33,NA
+"23","Diana Hernández","A","Low","Less than five years","Within opportunity cost",40,40,20,NA
+"24","Diana Hernández","A","Low","Less than five years","Less than opp cost",50,40,10,NA
+"25","Diana Hernández","A","Low","More than five years","More than opp cost",33,33,33,NA
+"26","Diana Hernández","A","Low","More than five years","Within opportunity cost",50,50,0,NA
+"27","Diana Hernández","A","Low","More than five years","Less than opp cost",50,50,0,NA
+"28","Juan Pablo Romero","B","High","Five years","More than opp cost",15,70,15,3
+"29","Juan Pablo Romero","B","High","Five years","Within opportunity cost",30,60,10,NA
+"30","Juan Pablo Romero","B","High","Five years","Less than opp cost",50,40,10,NA
+"31","Juan Pablo Romero","B","High","Less than five years","More than opp cost",25,60,15,NA
+"32","Juan Pablo Romero","B","High","Less than five years","Within opportunity cost",45,40,15,NA
+"33","Juan Pablo Romero","B","High","Less than five years","Less than opp cost",60,30,10,NA
+"34","Juan Pablo Romero","B","High","More than five years","More than opp cost",10,45,45,NA
+"35","Juan Pablo Romero","B","High","More than five years","Within opportunity cost",20,40,40,NA
+"36","Juan Pablo Romero","B","High","More than five years","Less than opp cost",30,35,35,NA
+"37","Juan Pablo Romero","B","Mid","Five years","More than opp cost",10,50,40,3
+"38","Juan Pablo Romero","B","Mid","Five years","Within opportunity cost",20,20,60,NA
+"39","Juan Pablo Romero","B","Mid","Five years","Less than opp cost",40,10,50,NA
+"40","Juan Pablo Romero","B","Mid","Less than five years","More than opp cost",20,30,50,NA
+"41","Juan Pablo Romero","B","Mid","Less than five years","Within opportunity cost",50,40,10,NA
+"42","Juan Pablo Romero","B","Mid","Less than five years","Less than opp cost",60,20,20,NA
+"43","Juan Pablo Romero","B","Mid","More than five years","More than opp cost",5,75,20,NA
+"44","Juan Pablo Romero","B","Mid","More than five years","Within opportunity cost",10,60,30,NA
+"45","Juan Pablo Romero","B","Mid","More than five years","Less than opp cost",20,55,25,NA
+"46","Juan Pablo Romero","B","Low","Five years","More than opp cost",20,30,50,3
+"47","Juan Pablo Romero","B","Low","Five years","Within opportunity cost",40,40,20,NA
+"48","Juan Pablo Romero","B","Low","Five years","Less than opp cost",50,25,15,NA
+"49","Juan Pablo Romero","B","Low","Less than five years","More than opp cost",30,10,60,NA
+"50","Juan Pablo Romero","B","Low","Less than five years","Within opportunity cost",50,20,30,NA
+"51","Juan Pablo Romero","B","Low","Less than five years","Less than opp cost",60,10,30,NA
+"52","Juan Pablo Romero","B","Low","More than five years","More than opp cost",10,50,40,NA
+"53","Juan Pablo Romero","B","Low","More than five years","Within opportunity cost",20,65,15,NA
+"54","Juan Pablo Romero","B","Low","More than five years","Less than opp cost",30,60,10,NA
+"55","Mauricio Echeverry","C","High","Five years","More than opp cost",10,10,80,1
+"56","Mauricio Echeverry","C","High","Five years","Within opportunity cost",20,20,60,NA
+"57","Mauricio Echeverry","C","High","Five years","Less than opp cost",33,33,33,NA
+"58","Mauricio Echeverry","C","High","Less than five years","More than opp cost",10,10,80,NA
+"59","Mauricio Echeverry","C","High","Less than five years","Within opportunity cost",20,20,60,NA
+"60","Mauricio Echeverry","C","High","Less than five years","Less than opp cost",33,33,33,NA
+"61","Mauricio Echeverry","C","High","More than five years","More than opp cost",5,5,90,NA
+"62","Mauricio Echeverry","C","High","More than five years","Within opportunity cost",10,45,45,NA
+"63","Mauricio Echeverry","C","High","More than five years","Less than opp cost",33,33,33,NA
+"64","Mauricio Echeverry","C","Mid","Five years","More than opp cost",10,10,80,1
+"65","Mauricio Echeverry","C","Mid","Five years","Within opportunity cost",10,45,45,NA
+"66","Mauricio Echeverry","C","Mid","Five years","Less than opp cost",33,33,33,NA
+"67","Mauricio Echeverry","C","Mid","Less than five years","More than opp cost",10,10,80,NA
+"68","Mauricio Echeverry","C","Mid","Less than five years","Within opportunity cost",10,45,45,NA
+"69","Mauricio Echeverry","C","Mid","Less than five years","Less than opp cost",33,33,33,NA
+"70","Mauricio Echeverry","C","Mid","More than five years","More than opp cost",10,10,80,NA
+"71","Mauricio Echeverry","C","Mid","More than five years","Within opportunity cost",10,45,45,NA
+"72","Mauricio Echeverry","C","Mid","More than five years","Less than opp cost",33,33,33,NA
+"73","Mauricio Echeverry","C","Low","Five years","More than opp cost",20,20,60,1
+"74","Mauricio Echeverry","C","Low","Five years","Within opportunity cost",60,20,20,NA
+"75","Mauricio Echeverry","C","Low","Five years","Less than opp cost",33,33,33,NA
+"76","Mauricio Echeverry","C","Low","Less than five years","More than opp cost",25,25,50,NA
+"77","Mauricio Echeverry","C","Low","Less than five years","Within opportunity cost",30,30,40,NA
+"78","Mauricio Echeverry","C","Low","Less than five years","Less than opp cost",33,33,33,NA
+"79","Mauricio Echeverry","C","Low","More than five years","More than opp cost",20,20,60,NA
+"80","Mauricio Echeverry","C","Low","More than five years","Within opportunity cost",33,33,33,NA
+"81","Mauricio Echeverry","C","Low","More than five years","Less than opp cost",33,33,33,NA
+"82","Patricia Cruz","D","High","Five years","More than opp cost",45,50,5,3
+"83","Patricia Cruz","D","High","Five years","Within opportunity cost",45,50,5,NA
+"84","Patricia Cruz","D","High","Five years","Less than opp cost",40,50,10,NA
+"85","Patricia Cruz","D","High","Less than five years","More than opp cost",33,33,33,NA
+"86","Patricia Cruz","D","High","Less than five years","Within opportunity cost",40,50,10,NA
+"87","Patricia Cruz","D","High","Less than five years","Less than opp cost",40,40,20,NA
+"88","Patricia Cruz","D","High","More than five years","More than opp cost",40,40,20,NA
+"89","Patricia Cruz","D","High","More than five years","Within opportunity cost",40,40,20,NA
+"90","Patricia Cruz","D","High","More than five years","Less than opp cost",50,30,20,NA
+"91","Patricia Cruz","D","Mid","Five years","More than opp cost",40,40,20,2
+"92","Patricia Cruz","D","Mid","Five years","Within opportunity cost",40,30,30,NA
+"93","Patricia Cruz","D","Mid","Five years","Less than opp cost",33,33,33,NA
+"94","Patricia Cruz","D","Mid","Less than five years","More than opp cost",50,25,25,NA
+"95","Patricia Cruz","D","Mid","Less than five years","Within opportunity cost",40,30,30,NA
+"96","Patricia Cruz","D","Mid","Less than five years","Less than opp cost",33,33,33,NA
+"97","Patricia Cruz","D","Mid","More than five years","More than opp cost",35,30,35,NA
+"98","Patricia Cruz","D","Mid","More than five years","Within opportunity cost",33,33,33,NA
+"99","Patricia Cruz","D","Mid","More than five years","Less than opp cost",40,30,30,NA
+"100","Patricia Cruz","D","Low","Five years","More than opp cost",33,33,33,1
+"101","Patricia Cruz","D","Low","Five years","Within opportunity cost",33,33,33,NA
+"102","Patricia Cruz","D","Low","Five years","Less than opp cost",40,30,30,NA
+"103","Patricia Cruz","D","Low","Less than five years","More than opp cost",50,30,20,NA
+"104","Patricia Cruz","D","Low","Less than five years","Within opportunity cost",50,10,40,NA
+"105","Patricia Cruz","D","Low","Less than five years","Less than opp cost",40,10,50,NA
+"106","Patricia Cruz","D","Low","More than five years","More than opp cost",30,20,50,NA
+"107","Patricia Cruz","D","Low","More than five years","Within opportunity cost",20,20,60,NA
+"108","Patricia Cruz","D","Low","More than five years","Less than opp cost",30,30,40,NA
+"109","Carolina Polania","E","High","Five years","More than opp cost",20,30,50,2
+"110","Carolina Polania","E","High","Five years","Within opportunity cost",30,20,50,NA
+"111","Carolina Polania","E","High","Five years","Less than opp cost",33,33,33,NA
+"112","Carolina Polania","E","High","Less than five years","More than opp cost",33,33,33,NA
+"113","Carolina Polania","E","High","Less than five years","Within opportunity cost",33,33,33,NA
+"114","Carolina Polania","E","High","Less than five years","Less than opp cost",33,33,33,NA
+"115","Carolina Polania","E","High","More than five years (tope de 10 años)","More than opp cost",20,30,50,NA
+"116","Carolina Polania","E","High","More than five years (tope de 10 años)","Within opportunity cost",30,20,50,NA
+"117","Carolina Polania","E","High","More than five years (tope de 10 años)","Less than opp cost",33,33,33,NA
+"118","Carolina Polania","E","Mid","Five years","More than opp cost",20,30,50,2
+"119","Carolina Polania","E","Mid","Five years","Within opportunity cost",30,30,40,NA
+"120","Carolina Polania","E","Mid","Five years","Less than opp cost",33,33,33,NA
+"121","Carolina Polania","E","Mid","Less than five years","More than opp cost",33,33,33,NA
+"122","Carolina Polania","E","Mid","Less than five years","Within opportunity cost",33,33,33,NA
+"123","Carolina Polania","E","Mid","Less than five years","Less than opp cost",33,33,33,NA
+"124","Carolina Polania","E","Mid","More than five years","More than opp cost",30,0,70,NA
+"125","Carolina Polania","E","Mid","More than five years","Within opportunity cost",50,0,50,NA
+"126","Carolina Polania","E","Mid","More than five years","Less than opp cost",33,33,33,NA
+"127","Carolina Polania","E","Low","Five years","More than opp cost",20,30,50,2
+"128","Carolina Polania","E","Low","Five years","Within opportunity cost",33,33,33,NA
+"129","Carolina Polania","E","Low","Five years","Less than opp cost",33,33,33,NA
+"130","Carolina Polania","E","Low","Less than five years","More than opp cost",30,30,40,NA
+"131","Carolina Polania","E","Low","Less than five years","Within opportunity cost",30,30,40,NA
+"132","Carolina Polania","E","Low","Less than five years","Less than opp cost",33,33,33,NA
+"133","Carolina Polania","E","Low","More than five years","More than opp cost",25,35,45,NA
+"134","Carolina Polania","E","Low","More than five years","Within opportunity cost",33,33,33,NA
+"135","Carolina Polania","E","Low","More than five years","Less than opp cost",33,33,33,NA
